@@ -23,5 +23,7 @@ https://github.com/camenduru/MotionCtrl-colab/assets/54370274/7055bcfa-388d-4a3e
 
 https://github.com/camenduru/MotionCtrl-colab/assets/54370274/d63ba794-a073-47be-ad3f-c36923d2cb50
 
+https://github.com/camenduru/MotionCtrl-colab/assets/54370274/11045c9f-ed2d-4cc6-be8b-a8bf6e14ef7a
+
 ### 🏢 Sponsor
 https://modelslab.com
