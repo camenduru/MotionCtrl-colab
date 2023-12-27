@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MotionCtrl-colab/blob/main/MotionCtrl_colab.ipynb) | MotionCtrl_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MotionCtrl-colab/blob/main/MotionCtrl_colab.ipynb) | MotionCtrl_colab (High-RAM 😐)
 
 ### 🧬 Code
 https://github.com/TencentARC/MotionCtrl
