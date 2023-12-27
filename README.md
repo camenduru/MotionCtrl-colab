@@ -19,6 +19,9 @@ https://wzhouxiff.github.io/projects/MotionCtrl/
 
 ### 🖼 Output
 
+https://github.com/camenduru/MotionCtrl-colab/assets/54370274/7055bcfa-388d-4a3e-9acb-a32c4798d201
+
+https://github.com/camenduru/MotionCtrl-colab/assets/54370274/d63ba794-a073-47be-ad3f-c36923d2cb50
 
 ### 🏢 Sponsor
 https://modelslab.com
